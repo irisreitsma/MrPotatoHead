@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else {
             ImageView image = findViewById(R.id.checkbox);
-            image.setVisibility(View.INVISIBLE); 
+            image.setVisibility(View.INVISIBLE);
         }
     }
 
