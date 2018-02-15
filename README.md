@@ -1,6 +1,7 @@
 # MrPotatoHead
-Als het goed is is het me eindelijk gelukt om correct te pushen. Ik weet niet precies wat er eerst steeds mis ging, maar ik heb deze nieuwe link ingeleverd. Ik had een drukke week waardoor ik niet genoeg tijd had om de Mr PotatoHead app werkend te krijgen.
+De enige echte Mr Potatohead App: Kleed Mr Potato aan!
 
-Update: ik las dat ook de exercises gepusht moesten worden. Het is me niet gelukt om dit vanuit de CS50 IDE te doen, dus heb ik ze gewoon vanaf daar gedownload en hier geupload. 
+Screenshot van de app:
+![alt text](https://github.com/irisreitsma/MrPotatoHead/blob/master/SC-Potatohead.jpg)
 
 De opdrachten van week 1 zijn hier te vinden: https://github.com/irisreitsma/Opdrachten.git
